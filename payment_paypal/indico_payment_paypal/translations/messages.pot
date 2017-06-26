@@ -15,7 +15,7 @@ msgstr ""
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Generated-By: Babel 2.3.4\n"
+"Generated-By: Babel 2.4.0\n"
 
 #: indico_payment_paypal/controllers.py:117
 msgid "Your payment request has been processed."
@@ -82,9 +82,10 @@ msgid ""
 msgstr ""
 
 #: indico_payment_paypal/templates/transaction_details.html:22
-msgid "Paid: "
+msgid "Paid:"
 msgstr ""
 
 #: indico_payment_paypal/templates/transaction_details.html:26
-msgid "Required: "
+msgid "Required:"
 msgstr ""
+
